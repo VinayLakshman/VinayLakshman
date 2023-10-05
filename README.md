@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @VinayLakshman
 - 👀 I’m interested in anything and everything related to coding.
-- 🌱 I’m currently learning web development and javascript.
 - 💞️ I’m looking to collaborate on fun projects that help me learn new things.
 - 📫 my mail ID: vinaylakshman.official@gmail.com
 
